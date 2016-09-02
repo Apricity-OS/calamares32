@@ -1,0 +1,23 @@
+---
+componentName:  apricity
+
+strings:
+    productName:         Apricity OS
+    shortProductName:    Apricity
+    version:             07.2016 Aspen
+    shortVersion:        Aspen
+    versionedName:       Apricity OS 07.2016 Aspen
+    shortVersionedName:  Apricity OS Aspen
+    bootloaderEntryName: Apricity
+
+images:
+    productLogo:         "squid.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
